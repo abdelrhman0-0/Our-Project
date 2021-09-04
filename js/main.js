@@ -1,0 +1,1 @@
+document.getElementById("ali").onclick = function(){document.getElementById("ali").innerHTML= "ali Allam"}
